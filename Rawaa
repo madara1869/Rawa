@@ -50,7 +50,7 @@ def chk():
 
   try: 
 
-    httpCaht = requests.get("https://raw.githubusercontent.com/kakshafo/sh4fo/main/list.txt").text 
+    httpCaht = requests.get("https://github.com/madara1869/rawa/blob/main/Txtt").text 
 
     if id in httpCaht: 
 
